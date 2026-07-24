@@ -1,0 +1,35 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# ROS bags and logs
+rosbag2_*/
+*.db3
+*.mcap
+*.bag
+*.log
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Large model files
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
