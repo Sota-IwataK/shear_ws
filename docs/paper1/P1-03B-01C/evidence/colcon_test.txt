@@ -1,0 +1,6 @@
+Starting >>> share_semantic_interfaces
+Finished <<< share_semantic_interfaces [0.47s]
+Starting >>> share_semantic_transport
+Finished <<< share_semantic_transport [0.50s]
+
+Summary: 2 packages finished [1.11s]

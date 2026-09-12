@@ -1,0 +1,4 @@
+........................................................................ [ 80%]
+.................                                                        [100%]
+- generated xml file: /home/dars-note-5070/iwata_ws/shear_ws/docs/paper1/P1-03B-01/evidence_01b/pytest.xml -
+89 passed in 0.11s

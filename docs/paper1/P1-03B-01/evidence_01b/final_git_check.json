@@ -1,0 +1,26 @@
+[
+  {
+    "command": "git status --short",
+    "exit_code": 0,
+    "stdout": "?? docs/\n?? src/amir_irt_mro/amir_irt_mro/local_hold_mock.py\n?? src/amir_irt_mro/amir_irt_mro/local_hold_state_estimator.py\n?? src/amir_irt_mro/test/test_local_hold_state_estimator.py\n?? src/photon_bottle_identifier/\n",
+    "stderr": ""
+  },
+  {
+    "command": "git diff --check",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": "git diff",
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": "git rev-parse HEAD",
+    "exit_code": 0,
+    "stdout": "df29960a78ebdb8c20d61764f2183383771afcda\n",
+    "stderr": ""
+  }
+]

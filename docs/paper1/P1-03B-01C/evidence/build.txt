@@ -1,0 +1,11 @@
+Starting >>> share_semantic_interfaces
+[Processing: share_semantic_interfaces]
+[Processing: share_semantic_interfaces]
+[Processing: share_semantic_interfaces]
+Finished <<< share_semantic_interfaces [1min 30s]
+Starting >>> share_semantic_transport
+[Processing: share_semantic_transport]
+[Processing: share_semantic_transport]
+Finished <<< share_semantic_transport [1min 0s]
+
+Summary: 2 packages finished [2min 30s]

@@ -1,0 +1,47 @@
+[
+  {
+    "command": [
+      "git",
+      "diff",
+      "--",
+      "src/amir_irt_mro/amir_irt_mro/local_hold_state_estimator.py",
+      "src/amir_irt_mro/amir_irt_mro/local_hold_mock.py",
+      "src/amir_irt_mro/test/test_local_hold_state_estimator.py"
+    ],
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "git",
+      "diff",
+      "--name-status"
+    ],
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "git",
+      "diff",
+      "--cached",
+      "--check"
+    ],
+    "exit_code": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "git",
+      "status",
+      "--short",
+      "--untracked-files=all"
+    ],
+    "exit_code": 0,
+    "stdout": "A  docs/paper1/P1-03B-01/evidence_01b/baseline_sha256.json\nA  docs/paper1/P1-03B-01/evidence_01b/build.txt\nA  docs/paper1/P1-03B-01/evidence_01b/colcon_test.txt\nA  docs/paper1/P1-03B-01/evidence_01b/colcon_test_result.txt\nA  docs/paper1/P1-03B-01/evidence_01b/colcon_trace.jsonl\nA  docs/paper1/P1-03B-01/evidence_01b/final_git_check.json\nA  docs/paper1/P1-03B-01/evidence_01b/installed_smoke.json\nA  docs/paper1/P1-03B-01/evidence_01b/isolation_check.json\nA  docs/paper1/P1-03B-01/evidence_01b/pytest.txt\nA  docs/paper1/P1-03B-01/evidence_01b/pytest.xml\nA  docs/paper1/P1-03B-01/evidence_01b/pytest_trace.jsonl\nA  docs/paper1/P1-03B-01/p1_03b_01b_implementation.md\nA  src/amir_irt_mro/amir_irt_mro/local_hold_mock.py\nA  src/amir_irt_mro/amir_irt_mro/local_hold_state_estimator.py\nA  src/amir_irt_mro/test/test_local_hold_state_estimator.py\n?? docs/paper1/P1-03B-01/audit.md\n?? docs/paper1/P1-03B-01/runtime_source_audit.md\n?? docs/paper1/P1-03B-01C/evidence/build.txt\n?? docs/paper1/P1-03B-01C/evidence/colcon_pytest.xml\n?? docs/paper1/P1-03B-01C/evidence/colcon_test.txt\n?? docs/paper1/P1-03B-01C/evidence/colcon_test_result.txt\n?? docs/paper1/P1-03B-01C/evidence/frozen_integrity.json\n?? docs/paper1/P1-03B-01C/evidence/pytest.txt\n?? docs/paper1/P1-03B-01C/evidence/pytest.xml\n?? docs/paper1/P1-03B-01C/p1_03b_01c_ros.md\n?? src/photon_bottle_identifier/README.md\n?? src/photon_bottle_identifier/package.xml\n?? src/photon_bottle_identifier/photon_bottle_identifier/__init__.py\n?? src/photon_bottle_identifier/photon_bottle_identifier/bottle_target_selector_node.py\n?? src/photon_bottle_identifier/photon_bottle_identifier/identified_bottle_realsense_adapter.py\n?? src/photon_bottle_identifier/photon_bottle_identifier/target_selector.py\n?? src/photon_bottle_identifier/resource/photon_bottle_identifier\n?? src/photon_bottle_identifier/setup.cfg\n?? src/photon_bottle_identifier/setup.py\n?? src/photon_bottle_identifier/test/test_identified_bottle_realsense_adapter.py\n?? src/photon_bottle_identifier/test/test_target_selector.py\n?? src/share_semantic_interfaces/CMakeLists.txt\n?? src/share_semantic_interfaces/msg/LocalHoldState.msg\n?? src/share_semantic_interfaces/package.xml\n?? src/share_semantic_transport/package.xml\n?? src/share_semantic_transport/resource/share_semantic_transport\n?? src/share_semantic_transport/setup.cfg\n?? src/share_semantic_transport/setup.py\n?? src/share_semantic_transport/share_semantic_transport/__init__.py\n?? src/share_semantic_transport/share_semantic_transport/mapper.py\n?? src/share_semantic_transport/share_semantic_transport/node.py\n?? src/share_semantic_transport/test/test_ros_integration.py\n?? src/share_semantic_transport/test/test_transport.py\n",
+    "stderr": ""
+  }
+]

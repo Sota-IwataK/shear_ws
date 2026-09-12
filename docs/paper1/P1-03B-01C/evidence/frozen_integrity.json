@@ -1,0 +1,24 @@
+{
+  "existing_files_checked": 880,
+  "changed_existing_files": [],
+  "index_hash_unchanged": true,
+  "staged_snapshot_unchanged": true,
+  "staged_count": 15,
+  "staged_sha256": {
+    "docs/paper1/P1-03B-01/evidence_01b/baseline_sha256.json": "f91fb906bf13c4dc0c00adf8d5bcd077dd88f1dad5b2d269d8e5c699926de9db",
+    "docs/paper1/P1-03B-01/evidence_01b/build.txt": "82294a08ea5568e31195a244e0dbb41a5086dc1b64af5220db2eeb1f3e96db66",
+    "docs/paper1/P1-03B-01/evidence_01b/colcon_test.txt": "561d5650677ec48efcbf624c506f315a581b65acdc26dd8600a00c8a90cead09",
+    "docs/paper1/P1-03B-01/evidence_01b/colcon_test_result.txt": "5f14bad0309728124a55ed0e2aa888e0c57676b7324a91aeb394796671d84ac1",
+    "docs/paper1/P1-03B-01/evidence_01b/colcon_trace.jsonl": "9f74ff7486f861cec058017f2fcd78531513082acf1e2e2cd94c42cbabcce1a3",
+    "docs/paper1/P1-03B-01/evidence_01b/final_git_check.json": "065028b1fcad4bc52c8ac4eaff76dd5051d21addfe236454fb62838dad6b5afc",
+    "docs/paper1/P1-03B-01/evidence_01b/installed_smoke.json": "e9794f2db5d06ddb5a33b286434bd981f0e0fb8561fb60df70688e2acb39a593",
+    "docs/paper1/P1-03B-01/evidence_01b/isolation_check.json": "6ff34be1be2d0a5c839e6ede6d8c52ad964ab5320d187807fefc770d4b3ea8aa",
+    "docs/paper1/P1-03B-01/evidence_01b/pytest.txt": "e876417fa6ba9300293bcd945cb038d4c9195c983f65c1c4fd14ede3ec4c0258",
+    "docs/paper1/P1-03B-01/evidence_01b/pytest.xml": "03798b76e7db74cf1961cb01ff702e5f80fe9ba4e7a468b0a55bfc6df243aaad",
+    "docs/paper1/P1-03B-01/evidence_01b/pytest_trace.jsonl": "9f74ff7486f861cec058017f2fcd78531513082acf1e2e2cd94c42cbabcce1a3",
+    "docs/paper1/P1-03B-01/p1_03b_01b_implementation.md": "a76c85b571a16f6784f5614551402f0aea8f4ff0f023bc5b8e83f37ce03dc0fa",
+    "src/amir_irt_mro/amir_irt_mro/local_hold_mock.py": "2fb429386e362815231d8bf749d578e5d38a4d3ac0b6870b6ef443eac9baa302",
+    "src/amir_irt_mro/amir_irt_mro/local_hold_state_estimator.py": "205edd3b48d302cb731202795a0e4118682810214aca0fd1feffb74a434c8129",
+    "src/amir_irt_mro/test/test_local_hold_state_estimator.py": "c2aa3e0660126629451ffbae47eb71b4822adaa07c80b6a0c3f74bc70ba24219"
+  }
+}

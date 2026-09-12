@@ -1,0 +1,11 @@
+{
+  "baseline_files_checked": 863,
+  "changed_existing_files": [],
+  "core_mock_imports": [
+    "dataclasses",
+    "decimal",
+    "math",
+    "typing",
+    "local_hold_state_estimator"
+  ]
+}
