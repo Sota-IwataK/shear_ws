@@ -37,3 +37,14 @@ string[] input_age_names
 bool[] input_age_valid
 int64[] input_ages_ns
 string[] stale_inputs
+
+# Optional full identities from this exact semantic snapshot. No numeric inference.
+# Presence=false is UNKNOWN; object_id=0 remains a valid present identity.
+bool canonical_candidate_valid
+string canonical_candidate_source_id
+string canonical_candidate_session_id
+uint64 canonical_candidate_object_id
+bool canonical_held_valid
+string canonical_held_source_id
+string canonical_held_session_id
+uint64 canonical_held_object_id
