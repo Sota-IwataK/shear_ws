@@ -1,0 +1,21 @@
+uint8 UNKNOWN=0
+uint8 FALSE=1
+uint8 TRUE=2
+
+string participant_id
+string writer_id
+string writer_session
+uint64 sequence
+string source_id
+string session_id
+uint64 object_id
+uint8 reach_state
+bool pose_sample_valid
+uint64 source_observation_sequence
+string source_clock_domain
+uint64 source_timestamp_ns
+string evaluation_clock_domain
+uint64 evaluation_timestamp_ns
+string pose_frame_id
+string geometry_context_id
+string reason_code

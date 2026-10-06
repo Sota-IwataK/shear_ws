@@ -14,6 +14,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ParticipantTargetIntent.msg"
   "msg/CanonicalBottleObservation.msg"
   "msg/ParticipantHumanSnapshot.msg"
+  "msg/ParticipantBottleReachEvidence.msg"
+  "msg/ParticipantBottleInteractionEvidence.msg"
   DEPENDENCIES builtin_interfaces geometry_msgs
 )
 ament_export_dependencies(rosidl_default_runtime)
